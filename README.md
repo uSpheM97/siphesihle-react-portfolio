@@ -1,4 +1,4 @@
-(/*# Siphesihle - React JS Portfolio Template
+# Siphesihle - React JS Portfolio Template
 #### Preview
 
  - [Demo](https://github.com/uSpheM97/siphesihle-react-portfolio)
@@ -33,8 +33,6 @@ bun dev
 Design and code is completely written by PrebuiltUI and development team. 
 ```
 
-## License
-*/
- - Design and Code is Copyright &copy; <a href="https://prebuiltui.com/" target="_blank">PrebuiltUI</a>
+
  - Licensed cover under [MIT]
  - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
